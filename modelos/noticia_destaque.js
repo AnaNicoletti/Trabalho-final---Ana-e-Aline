@@ -15,7 +15,7 @@ get mostrar2(){
 }
 
 mostrarDestaque(){
-  if(_imagemDestaque != ""){
+  if(this._imagemDestaque != ""){
     return `
     <img src="${this._imagemDestaque}"/>
      `;
