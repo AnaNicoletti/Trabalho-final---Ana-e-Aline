@@ -1,0 +1,41 @@
+[
+  {
+  "id": "001",
+  "titulo": "Pânico sobre o Pacífico: o caso dos passageiros sugados para fora de avião",
+  "data_da_publicacao": "Data de Publicação: 04/06/2021",
+  "resumo": "Resumo: Porta de compartimento de carga se abriu em pleno voo, abrindo buraco na fuselagem de Jumbo 747 da United Airlines em 1989; ouça dramático relato de sobreviventes em episódio de podcast 'Que História!'.",
+  "texto": "Texto: Oito passageiros foram arrancados com seus assentos para fora do avião em que viajavam, em um voo do Havaí (EUA) para a Nova Zelândia, depois que um enorme buraco se abriu na fuselagem. Um nono passageiro foi engolido por uma turbina.O acidente ocorreu dois meses após uma bomba ter derrubado um Boeing 747 sobre a cidade escocesa de Lockerbie, matando 270 pessoas. Por isso, passageiros e membros da tripulação acharam que tinham sido vítimas de um atentado, e que o avião estava caindo, indo na direção das águas do Oceano Pacífico."
+  },
+ 
+  {
+    "id": "002",
+    "titulo": "França reabre ao turismo, mas mantém barreiras aos brasileiros",
+    "data_da_publicacao": "Data de Publicação:04/06/2021",
+    "resumo": "Resumo: Pessoas vacinadas de países como EUA, China e Rússia terão facilidades para entrar na França como turistas. Brasileiros, argentinos, indianos e sul-africanos continuarão a sofrer barreiras, mesmo vacinados.",
+    "texto": "Texto: O governo da França anunciou que, a partir de 9 de junho, vai relaxar medidas de controle de estrangeiros, na esperança de salvar a temporada de turismo no país, entre junho e agosto. Mas as autoridades de Paris deixaram claro que as barreiras serão mantidas para brasileiros e indianos. Pela regra anunciada pelo governo de Emmanuel Macron, turistas vacinados não serão obrigados a mostrar testes negativos da covid-19. Isso inclui todos os europeus e uma lista verde que ainda conta com Israel, Japão e Austrália"
+  },
+  
+  {
+    "id": "003",
+    "titulo": "Festival de Cannes prepara volta com programação cheia de filmes que citam Covid-19",
+    "data_da_publicacao": "Data de Publicação:04/06/2021",
+    "resumo": "Resumo: Seleção de candidatos à Palma de Ouro inclui filmes centrados na era da Covid-19, nos quais os personagens aparecem de máscaras. Evento acontecerá entre 6 e 17 de julho.",
+    "texto": "Texto: Sean Penn e Wes Anderson serão alguns dos pesos-pesados disputando o principal prêmio do Festival Internacional de Cinema de Cannes em julho, quando a vitrine da sétima arte espera que estrelas globais possam voltar a interagir em festas na Riviera francesa. Os organizadores do maior festival de cinema do mundo disseram nesta quinta-feira que acreditam poder realizar jantares e exibições na praia paralelamente à competição principal, já que algumas medidas contra a Covid-19 estão sendo suspensas na França.Realizado geralmente em maio, o evento foi cancelado no ano passado devido à pandemia. Neste ano, acontecerá entre 6 e 17 de julho."
+  },
+  
+  {
+    "id": "004",
+    "titulo": "'Cruella' assume a liderança na bilheteria nacional e arrecada R$ 1,6 milhão",
+    "data_da_publicacao": "Data de Publicação:31/05/2021",
+    "resumo": "Resumo: Filme da Disney estreou esta semana nos cinemas. No total, os dez filmes mais vistos no final de semana somaram R$ 4,4 milhões.",
+    "texto": "Texto: Em sua semana de estreia nos cinemas, o filme 'Cruella' assumiu a liderança nas bilheterias e arrecadou R$ 1,6 milhão. O filme sobre a origem da vilã de 101 dálmatas (1961) foi assistido por 83,5 mil pessoas entre os dias 27 e 30 de maio, segundo dados da Comscore. Cruella foi seguido de 'Godzilla vs. Kong' (R$ 899,4 mil) e 'Mortal Kombat'(R$ 797,5 mil), que na última semana, era o líder na bilheteria."
+  },
+  
+  {
+    "id": "005",
+    "titulo": "Reino Unido aprova vacina da Pfizer para adolescentes de 12 a 15 anos",
+    "data_da_publicacao": "Data de Publicação:04/06/2021",
+    "resumo": "Resumo: O imunizante também recebeu sinal verde para uso nessa faixa etária no Chile, Uruguai, Estados Unidos, Canadá e União Europeia",
+    "texto": "Texto: A Agência Reguladora de Medicamentos e Produtos de Saúde do Reino Unido anunciou nesta sexta-feira, 4, a aprovação da vacina da Pfizer–BioNTech contra a Covid-19 para uso em adolescentes de 12 a 15 anos. A diretora-executiva da entidade, June Raine, disse em comunicado que o imunizante foi considerado eficaz e seguro para essa faixa etária, com benefícios que superam qualquer risco. Na quinta-feira, 3, as autoridades de saúde britânicas informaram que metade dos adultos do país já recebeu duas doses da vacina contra a Covid-19, enquanto 75,2% da população adulta foi vacinada com a primeira. A vacina da Pfizer-BioNTech também recebeu sinal verde para uso em adolescentes no Chile, Uruguai, Estados Unidos, Canadá e União Europeia. Apesar das pessoas dessa faixa etária costumarem desenvolver formas menos graves da Covid-19 quando comparado aos adultos, elas não são imunes às infecções pelo novo coronavírus e podem ajudar a propagá-lo."
+  }
+]
