@@ -1,9 +1,9 @@
 class Noticia{
-  constructor (titulo, data_da_publicacao, resumo, texto){
-    this._titulo = titulo
-    this._data_da_publicacao = data_da_publicacao
-    this._resumo = resumo
-    this._texto = texto
+  constructor (title, publishedAt, description, author){
+    this._title = title
+    this._publishedAt = publishedAt
+    this._description = description
+    this._author = author
   }
 
   get mostrar(){
@@ -17,13 +17,13 @@ class Noticia{
   }
 
   mostrarNoticia(){
-    if (this._titulo != "" && this._data_de_publicacao != "" && this._texto != ""){
+    if (this._title != "" && this._publishedAt != "" && this._description != "" && this._author != "" && this._author != ""){
     
       return`
-      <h3>${this._titulo}</h3>
-      <div>${this._data_da_publicacao}</div>
-      <div>${this._resumo}</div><br>
-      <div>${this._texto}</div>
+      <h3>${this._title}</h3>
+      <div>${this._publishedAt}</div>
+      <div>${this._description}</div><br>
+      <div>${this._author}</div>
       `;
 
     }else{
