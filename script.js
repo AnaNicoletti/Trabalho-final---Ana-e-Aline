@@ -11,13 +11,12 @@ request.onload = function(){
 
   noticias.forEach(function(noticia) {
        
-    let titulo = noticia.titulo;
-    let data_da_publicacao = noticia.data_da_publicacao;
-    let resumo = noticia.resumo;
-    let texto = noticia.texto;
+    let title = noticia.title;
+    let publishedAt = noticia.publishedAt;
+    let description = noticia.description;
+    let author = noticia.author;
 
-
-    let not = new Noticia(titulo, data_da_publicacao, resumo, texto);
+    let not = new Noticia(title, publishedAt, description, author);
     
     mostre.insertAdjacentHTML('afterbegin',  not.mostrar);
 
