@@ -14,8 +14,6 @@ request.onload = function(){
 
   amost.insertAdjacentHTML('afterbegin', amostra.mostrar2);
 
-  
-
   noticias.forEach(function(noticia) {
        
     let title = noticia.title;
