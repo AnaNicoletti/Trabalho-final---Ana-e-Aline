@@ -2,10 +2,10 @@ class Noticia{
   constructor (title, publishedAt, description, author, url){
     this._title = title;
     this._publishedAt = publishedAt;
-    this._description = description;
     this._author = author;
     this._url = url;
   }
+
 
   get mostrar(){
     try {
@@ -18,13 +18,14 @@ class Noticia{
   }
 
   mostrarNoticia(){
-    if (this._title != "" && this._publishedAt != "" && this._description != "" && this._author != "" && this._author != "" && this._url != ""){
+    if (this._title != "" && this._publishedAt != "" & this._author != "" && this._url != ""){
     
       return`
-      <h3><a href="${this._url}">${this._title}</a></h3>
-      <div>${this._publishedAt}</div>
-      <div>${this._description}</div><br>
-      <div>${this._author}</div>
+      <div class="estilo_noticia1 p-3">
+        <h3><a class="linkcolorido" href="${this._url}">${this._title}</a></h3><h6>${this._author}</h6>
+        <h5>${this._publishedAt}</h5>
+       
+      </div>
       `;
 
     }else{
@@ -32,5 +33,3 @@ class Noticia{
     }
   }
   }
-
-
