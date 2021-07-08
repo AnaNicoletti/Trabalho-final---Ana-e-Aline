@@ -1,0 +1,36 @@
+aside{	
+	text-align: center;
+}
+
+img{
+	margin-top: 25px;
+  width: 70%;
+}
+
+body{
+  background-color: rgb(252, 237, 213);
+}
+
+.estilo_noticia1 {
+  margin: 100px;
+  background-color: #DEB887;
+  border:2 px solid black;
+  color: black;
+  font-size: 20px;
+}
+
+.estilo_noticia2 {
+  margin: 100px;
+  background-color: #DEB887;
+  border:2 px solid black;
+  color: black;
+  font-size: 20px;
+}
+
+.linkcolorido{
+  color:grey;
+}
+
+.linkcolorido: visited {
+  color: black;
+}

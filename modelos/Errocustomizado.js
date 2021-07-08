@@ -1,5 +1,5 @@
 class Errocustomizado extends Error {
-  constructor(mensagem){
+  constructor(mensagem) {
     super(mensagem);
     this.name = "Noticia_Error";
   }

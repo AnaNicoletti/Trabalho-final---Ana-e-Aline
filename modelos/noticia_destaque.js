@@ -18,7 +18,7 @@ class NoticiaDestaque extends Noticia {
   }
 
   mostrarDestaque() {
-    if (this._imagemDestaque != "" && this._title != "" && this._publishedAt != "" && this._author != ""&&  this._description != "" && this._url != "") {
+    if (this._imagemDestaque != "" && this._title != "" && this._publishedAt != "" && this._author != "" && this._description != "" && this._url != "") {
       return `
       <aside>
       <div class="estilo_noticia2 p-3">
